@@ -18,7 +18,7 @@ function countdown(targetDate) {
 
         if (difference < 0) {
             clearInterval(timer);
-            document.getElementById('countdown').innerHTML = "Регистрация закрыта!";
+            document.getElementById('countdown').innerHTML = "00:00:00:00";
         }
     }, 1000);
 }

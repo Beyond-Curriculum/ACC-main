@@ -421,6 +421,10 @@ input {
 }
 
 .timer__countdown {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
   color: blue;
   font-weight: 800;
