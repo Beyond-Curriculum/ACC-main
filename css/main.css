@@ -675,6 +675,11 @@ input {
   width: auto;
 }
 
+.partners__item {
+  height: 100%;
+  width: auto;
+}
+
 .swapper-container {
   width: 100%;
 }
